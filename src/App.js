@@ -20,7 +20,7 @@ function App() {
             <div className="App">
                 <div>
                     <div className="App-title">
-                        <h2>Calculator</h2>
+                        <h2>Kalkulator</h2>
                     </div>
                     <main className="calculator-card">
                         <form>

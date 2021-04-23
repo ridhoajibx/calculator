@@ -8,6 +8,10 @@
     align-items: center;
 }
 
+.App-title {
+    text-align: center;
+}
+
 .calculator-card {
     border: 1px solid #333;
     padding: 1.5rem;
