@@ -36,7 +36,7 @@ function App() {
                                         }}
                                         value={value.val1}
                                         className='form-control'
-                                        type="text"
+                                        type="number"
                                         name="value1"
                                         id="val1"
                                     />
@@ -64,7 +64,7 @@ function App() {
                                         }}
                                         value={value.val2}
                                         className='form-control'
-                                        type="text"
+                                        type="number"
                                         name="value2"
                                         id="val2"
                                     />
@@ -92,7 +92,7 @@ function App() {
                                         }}
                                         value={value.val3}
                                         className='form-control'
-                                        type="text"
+                                        type="number"
                                         name="value3"
                                         id="val3"
                                     />
